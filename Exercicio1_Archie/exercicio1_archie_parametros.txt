@@ -1,0 +1,9 @@
+PARAMETROS DA EQUACAO DE ARCHIE
+==================================================
+
+Fator de tortuosidade (a): 0.6063
+Expoente de cimentacao (m): 1.6883
+Coeficiente de correlacao (R^2): 0.4182
+Erro padrao: 0.6005
+
+Equacao ajustada: Rt/Rw = 0.6063 * phi^(-1.6883)
