@@ -141,8 +141,8 @@ Relatório técnico completo contendo:
 - Conclusões e observações finais
 - Lista completa de arquivos gerados
 
-### 2. **FEEDBACK_ChatGPT.md**
-Avaliação técnica do trabalho por IA especializada:
+### 2. **REVISAO_TECNICA.md**
+Revisão técnica detalhada do trabalho:
 - Análise da coerência dos resultados do Archie
 - Avaliação da interpretação geológica do SEV
 - Pontos fortes identificados
@@ -253,7 +253,7 @@ Log detalhado de todas as atividades realizadas:
 
 ## VALIDACAO E FEEDBACK
 
-O trabalho foi submetido a análise por IA especializada (ChatGPT) e recebeu as seguintes avaliações:
+O trabalho foi submetido a revisão técnica detalhada e recebeu as seguintes avaliações:
 
 **✓ Metodologia:** Correta e bem aplicada
 **✓ Resultados:** Coerentes com teoria geofísica
