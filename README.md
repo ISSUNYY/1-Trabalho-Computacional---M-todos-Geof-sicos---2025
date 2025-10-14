@@ -44,6 +44,7 @@ O Caso 2 apresentou maior complexidade geológica, indicando presença de múlti
 ## Documentação
 
 - **ANALISE_DETALHADA.md**: Discussão aprofundada dos métodos e resultados
+- **ANALISE_GRAFICOS.md**: Análise visual e interpretação dos gráficos
 - **Documentacao/RELATORIO_COMPLETO.md**: Relatório técnico detalhado
 - **Documentacao/REVISAO_TECNICA.md**: Revisão crítica dos resultados
 
