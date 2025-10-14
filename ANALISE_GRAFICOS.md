@@ -17,6 +17,8 @@ Este documento apresenta uma analise detalhada dos graficos gerados nos exercici
 
 Arquivo: `Exercicio1_Archie/exercicio1_archie_grafico.png`
 
+![Gráfico Exercício 1 - Lei de Archie](./Exercicio1_Archie/exercicio1_archie_grafico.png)
+
 O grafico apresenta duas visualizacoes complementares dos dados:
 
 #### Painel Esquerdo: Escala Linear
@@ -91,6 +93,8 @@ A visualizacao log-log confirma que o modelo de Archie e apropriado para estes d
 
 Arquivo: `Exercicio2_SEV/exercicio2_SEV_caso1_analise.png`
 
+![Gráfico Caso 1 - SEV](./Exercicio2_SEV/exercicio2_SEV_caso1_analise.png)
+
 #### Pseudosecao (Grafico Principal)
 
 **Caracteristicas Visuais:**
@@ -149,6 +153,8 @@ O formato ascendente indica modelo de duas camadas com camada superior mais cond
 ### CASO 2: Ambiente Complexo (Multiplas Camadas)
 
 Arquivo: `Exercicio2_SEV/exercicio2_SEV_caso2_analise.png`
+
+![Gráfico Caso 2 - SEV](./Exercicio2_SEV/exercicio2_SEV_caso2_analise.png)
 
 #### Pseudosecao (Grafico Principal)
 
@@ -224,6 +230,8 @@ A bimodalidade confirma dois ambientes geologicos distintos e bem separados, val
 
 Arquivo: `Exercicio2_SEV/exercicio2_SEV_caso3_analise.png`
 
+![Gráfico Caso 3 - SEV](./Exercicio2_SEV/exercicio2_SEV_caso3_analise.png)
+
 #### Pseudosecao
 
 **Caracteristicas:**
@@ -262,6 +270,8 @@ Perfil geologico similar ao Caso 1, possivelmente mesma sequencia geologica regi
 ### GRAFICO COMPARATIVO: 3 Casos
 
 Arquivo: `Exercicio2_SEV/exercicio2_SEV_comparacao_geral.png`
+
+![Gráfico Comparativo - 3 Casos SEV](./Exercicio2_SEV/exercicio2_SEV_comparacao_geral.png)
 
 **Analise Comparativa Visual:**
 
